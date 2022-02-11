@@ -18,6 +18,8 @@ NRC: 10133
 
 **2. MARCO TEORICO**
 
+![image](https://user-images.githubusercontent.com/94098157/153626392-c974f46f-49e5-4d45-9926-a987033983af.png)
+
 **3. MATERIAL Y EQUIPO REQUERIDO**
 
  Generador de señales
@@ -56,7 +58,7 @@ NRC: 10133
 
 **5. Para 500 Hz**
 
-![image](https://user-images.githubusercontent.com/94098157/153536389-ee858187-780b-40be-950b-e285880b5147.png)
+![image](https://user-images.githubusercontent.com/94098157/153621269-186f13ae-7be1-495d-935f-39693eca7e89.png)
 
 **6. Para 1000 Hz**
 
@@ -208,6 +210,16 @@ NRC: 10133
 
 ![image](https://user-images.githubusercontent.com/94098157/153541711-af949d0e-ba80-4be4-833e-a4892db43130.png)
 
+***TABLA DEL OCSILOSCOPIO EN CAPACITORES Y RESISTORES***
+
+![image](https://user-images.githubusercontent.com/94098157/153622013-7918c426-344d-49dc-9eef-0eef58be7102.png)
+
+***TABLA DEL MULTÍMETRO EN CAPACITORES Y RESISTORES VOLTAJE Y CORRIENTE***
+
+![image](https://user-images.githubusercontent.com/94098157/153622367-1cfe38ef-aa48-42e1-b38c-007afc5eae15.png)
+
+![image](https://user-images.githubusercontent.com/94098157/153622447-05ab6ff0-44fc-4c03-a387-50052818caf4.png)
+
 **5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 *1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?*
@@ -220,6 +232,10 @@ NRC: 10133
 
 **6. VIDEO:**
 
+https://www.youtube.com/watch?v=dngNrMAMA30
+
 **7. CONCLUSIONES**
 
 **8. BIBLIOGRAFÍA**
+
+Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION
