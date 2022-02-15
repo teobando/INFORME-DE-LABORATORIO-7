@@ -40,6 +40,8 @@ NRC: 10133
 
 ***OSCILOSCOPIO***
 
+Aqui se reliza la medición de Vo para las frecuencias solicitadas 
+
 **1. Para 0 Hz**
 
 ![image](https://user-images.githubusercontent.com/94098157/153536260-48cbdc83-df13-4e4b-bc27-bcffdc947413.png)
