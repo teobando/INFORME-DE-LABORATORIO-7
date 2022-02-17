@@ -265,6 +265,10 @@ https://www.youtube.com/watch?v=dngNrMAMA30
 
 **7. CONCLUSIONES**
 
+-Los valores de las corrientes y voltajes varían en función de los valores de los inductores, capacitores y los Hz de la fuente de corriente alterna
+- Tener los conceptos claros en lo que se refiere a la definición de inductor y capacitor para tener claro la relación tienen con la fuente de corriente alterna e identificar el comportamiento en circuitos AC y DC.  
+- Los valores analíticos y experimentales  muestran una gran semejanza entre ellos, lo que significa que son  en cierta  manera precisos.
+
 **8. BIBLIOGRAFÍA**
 
 Floyd, T. (2007). *Principios de circuitos electricos* (Ed. 8va). Pearson EDUCATION
