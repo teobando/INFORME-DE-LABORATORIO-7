@@ -241,6 +241,8 @@ Aqui se reliza la medición de la corrienteo para las frecuencias solicitadas ut
 
 **5. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
+Aqui se tomo en cuenta losvalores de los voltajes eficaces 
+
 ![image](https://user-images.githubusercontent.com/94098157/154534303-b3532e66-f4f9-4c75-8f23-3992434afd78.png)
 
 *1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?*
