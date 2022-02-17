@@ -14,7 +14,14 @@ NRC: 10133
 
 ***Objetivo General***
 
+- Verificar el comportamiento de una bobina y un capacitor conectados de forma en serie y paralelo en circuitos AC y DC mediante una práctica de laboratorio para identificar sus principales diferencias y familiarizarse con los instrumentos de medición.
+
 ***Objetivo Especificos***
+
+- Conocer los conceptos de lo que es una bobina y un capacitor para tener una  idea clara de lo que trata. 
+- Realizar un circuito cerrado en un protoboard siguiendo la estructura dada por el docente, para analizar los capacitores e inductores en circuitos AC y DC
+- Medir  con el multímetro y el osciloscopio los  valores de las corrientes y voltaje en los inductores y capacitores para determinar los diferentes comportamientos.  
+- Responder las preguntas propuestas por el docente para resumir lo aplicado en la práctica. 
 
 **2. MARCO TEORICO**
 
@@ -40,7 +47,7 @@ NRC: 10133
 
 ***OSCILOSCOPIO***
 
-Aqui se reliza la medición de Vo para las frecuencias solicitadas 
+Aqui se reliza la medición de Vo para las frecuencias solicitadas utilizando el osciloscopio para los capacitores.
 
 **1. Para 0 Hz**
 
@@ -70,6 +77,8 @@ Aqui se reliza la medición de Vo para las frecuencias solicitadas
 
 ***MULTÍMETRO VOLTAJE Vo***
 
+Aqui se reliza la medición de Vo para las frecuencias solicitadas utilizando el multimetro para los capacitores.
+
 **1. Para 0 Hz**
 
 ![image](https://user-images.githubusercontent.com/94098157/153538172-8f53a05a-1048-48c3-81b5-ac54ce8ccd8d.png)
@@ -97,6 +106,8 @@ Aqui se reliza la medición de Vo para las frecuencias solicitadas
 *c.Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.* 
 
 ***MULTÍMETRO CORRIENTE***
+
+Aqui se reliza la medición de la corriente para las frecuencias solicitadas utilizando el multimetro para los capacitores.
 
 **1. Para 0 Hz**
 
@@ -132,6 +143,8 @@ Aqui se reliza la medición de Vo para las frecuencias solicitadas
 
 ***OSCILOSCOPIO***
 
+Aqui se reliza la medición del voltaje Vo para las frecuencias solicitadas utilizando el osciloscopio para los inductores.
+
 **1. Para 0 Hz**
 
 ![image](https://user-images.githubusercontent.com/94098157/153539982-0d02f4a2-0ad6-4a20-ac38-1a74e52cf988.png)
@@ -160,6 +173,8 @@ Aqui se reliza la medición de Vo para las frecuencias solicitadas
 
 ***MULTÍMETRO VOLTAJE Vo***
 
+Aqui se reliza la medición del voltaje Vo para las frecuencias solicitadas utilizando el multimetro para los inductores.
+
 **1. Para 0 Hz**
 
 ![image](https://user-images.githubusercontent.com/94098157/153540925-791eae10-07d3-42b5-bbd3-d47547a76d7e.png)
@@ -187,6 +202,8 @@ Aqui se reliza la medición de Vo para las frecuencias solicitadas
 *c.Utilice un multímetro para medir la corriente que atraviesa la resistencia variando la frecuencia entre los valores 0, 10, 50, 100, 500, 1000 Hz. Anote los resultados.* 
 
 ***MULTÍMETRO CORRIENTE***
+
+Aqui se reliza la medición de la corrienteo para las frecuencias solicitadas utilizando el multimetro para los inductores.
 
 **1. Para 0 Hz**
 
