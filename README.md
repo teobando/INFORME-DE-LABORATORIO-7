@@ -243,11 +243,21 @@ Aqui se reliza la medición de la corrienteo para las frecuencias solicitadas ut
 
 *1.- ¿Cómo se comportan la bobina y el capacitor en corriente continua (cero Hz)?*
 
+En la fuente de corriente alterna cuando existen 0 Hz el comportamiento entre los inductores y los capacitores es bastante similar  ya que el voltaje es constante por lo que la corriente también es constante y ambos almacenan energía, esto normalmente pasa en circuitos DC 
+
 *2.- ¿Cómo se comportan la bobina y el capacitor en corriente alterna?*
+
+En una fuente de corriente alterna al cambiarse continuamente los Hz, el voltaje en un capacitor disminuye a medida que los Hz aumentan. Caso contrario lo que sucede con los inductores es decir, que a medida  que los Hz aumentan el voltaje aumenta. Esto es evidente en las mediciones que se tiene tanto en el osciloscopio como en el multímetro. 
+
+Por otra parte, en la corriente que se presenta en la resistencia conectado al capacitor, a medida que los Hz aumentan la corriente aumenta, caso contrario a lo que sucede en un inductor es decir a medida que lo Hz aumenta la corriente disminuye.
 
 *3.- ¿Qué cree usted que ocurriría con el voltaje Vo y la corriente de la resistencia en los circuitos analizados en esta práctica, si se utilizan dos bobinas o dos capacitores de valores distintos?*
 
+El voltaje variará  dependiendo de los valores tanto de los capacitores como el de los inductores, es decir que si el valor del capacitor aumenta el voltaje disminuye, caso contrario con los inductores si el valor de este aumenta el voltaje también aumenta, por otra parte en la corriente sigue el mismo principio observado en las tablas por lo que si el valor del capacitor aumenta la corriente aumenta   
+
 *4.- ¿Qué son los valores eficaces de voltaje y corriente?*
+
+Los valores eficaces tanto de corrientes como de voltajes son aquellos que son continuos que produjera la misma fuente de corriente alterna que es aplicada a una resistencia.   
 
 **6. VIDEO:**
 
